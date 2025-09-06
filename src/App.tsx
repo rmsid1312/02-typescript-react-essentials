@@ -1,10 +1,10 @@
 // import Component from "./final/05-challenge";
-import Component from "./starter/06-context";
+import ParentComponent from "./starter/06-context";
 
 function App() {
   return (
     <main>
-      <Component />
+      <ParentComponent />
     </main>
   );
 }
