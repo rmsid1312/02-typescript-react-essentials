@@ -1,5 +1,4 @@
-// import Component from "./final/05-challenge";
-import Component from "./starter/09-rtk";
+import Component from "./starter/10-tasks";
 
 function App() {
   return (
